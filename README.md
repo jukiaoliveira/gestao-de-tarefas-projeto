@@ -6,4 +6,4 @@ Um aplicativo de gerenciamento de tarefas com 7 telas interativas, desenvolvido 
 - ❌ Remover tarefas existentes.
 - 🔄 Navegação dinâmica entre as telas.
 
-### 🔗 [Veja o Projeto no Figma](https://www.figma.com/design/5kxhVb8X6KTc03gwBhmvhp/Todo-App?node-id=1-152&t=wuxVnCjR7qKg2Sde-1)
+### 🔗 [Veja o Projeto no Figma](https://www.figma.com/proto/5kxhVb8X6KTc03gwBhmvhp/Todo-App?page-id=0%3A1&node-id=1-2&starting-point-node-id=1%3A2&t=mulZixaDef3SPMqE-1)
